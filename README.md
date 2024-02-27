@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramdanisaputra31
+- 👋 Hi, I’m Ramdani Saputra
 - 👀 I’m interested in Front-end programming and anything about technologies
 - 🌱 I’am a college student and currently learning HTML, CSS and JavaScript for web programming
 - 📫 You can contact me via Instagram @saputraaa31_ or you can Email me at ramdanisaputra314@gmail.com
